@@ -1,10 +1,10 @@
 package java8features1.java8features1;
 
 public class Employee {
-    // Private member variables
-    private String empId;
+     
     private String firstName;
     private String lastName;
+    private String empId;   
     private String email;
     private String gender;
     private String newJoiner;
