@@ -15,6 +15,10 @@ public class AscendingAndDescendingUsingStreams {
 		   List<Integer>s3 = s.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
 		   
 			System.out.println(s3);
+			System.out.println(s3);
+
+			
+			
 		
 	}
 	
